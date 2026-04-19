@@ -1,0 +1,17 @@
+# Dependency directories
+node_modules/
+
+# Environment variables (මෙය ඉතා වැදගත් - ඔබගේ API Keys ආරක්ෂා කිරීමට)
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build files
+dist/
